@@ -1,0 +1,28 @@
+{
+  "name": "gas-local-dev",
+  "version": "1.0.0",
+  "description": "Apps Script development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classroomtechtools/gas-local-dev.git"
+  },
+  "author": "Adam Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/classroomtechtools/gas-local-dev/issues"
+  },
+  "homepage": "https://github.com/classroomtechtools/gas-local-dev#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "connect": "^3.6.0",
+    "ejs": "^2.5.6",
+    "fs-extra": "^2.1.2",
+    "gas-local": "^1.2.0",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
